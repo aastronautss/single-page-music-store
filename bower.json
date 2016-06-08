@@ -1,0 +1,23 @@
+{
+  "name": "single-page-music-store",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tyler Guillen <tyguillen@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "backbone": "^1.3.3",
+    "handlebars": "^4.0.5"
+  }
+}
